@@ -1,0 +1,1 @@
+include ':app', ':media', ':senior', ':device', ':animation', ':weixin', ':primary', ':test', ':junior', ':filedialog', ':middle', ':network', ':performance', ':custom', ':storage', ':thirdsdk', ':event', ':group', ':mixture'
